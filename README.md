@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Julián Castro</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markish2000&label=Profile%20views&color=0e75b6&style=flat" alt="markish2000" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markish2000" alt="markish2000" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, React Native and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://markish2000.github.io/Portfolio/](https://markish2000.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript and React Js**
 
-- 📫 How to reach me **marcosparella2000@gmail.com**
+- 📫 How to reach me **cococastro619@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N23Ey4tOCdr16zdg3yqdWPv2HBticlAs/view](https://drive.google.com/file/d/1N23Ey4tOCdr16zdg3yqdWPv2HBticlAs/view)
+- 📄 My resume [https://docs.google.com/document/d/1RSZ8KKXhSf6jGbscRx9UhS4Qw4945_MVlkKtfKwbaPI/edit](https://docs.google.com/document/d/1RSZ8KKXhSf6jGbscRx9UhS4Qw4945_MVlkKtfKwbaPI/edit)
 
 - ⚡ Fun fact **I am always willing to learn new things and help those who need it.**
 
